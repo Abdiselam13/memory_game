@@ -1,0 +1,11 @@
+h3{
+    margin-left: 26%;
+}
+
+#grid{
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 30%;
+}
